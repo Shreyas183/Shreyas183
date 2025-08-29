@@ -3,7 +3,7 @@
 <h1 align="center">
   Hi there 👋, I'm <span style="color:#4CAF50">Shreyas Chougule</span>  
 </h1>
-<h3 align="center">🚀 Final-year B.Tech IT | Java | React | Generative AI | Cloud Enthusiast ☁️</h3>
+<h3 align="center">🚀 Final-year B.Tech IT | Java | React | Generative AI</h3>
 
 ---
 
