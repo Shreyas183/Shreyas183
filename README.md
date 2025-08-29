@@ -35,10 +35,10 @@
 🚀 **[Esports Tournament Manager](https://github.com/Shreyas183/Esports)**  
 🕹️ Role-based dashboards (Admin, Organizer, Player, Viewer) for **200+ users**, with live streaming & tournament management.  
 
-⚡ **CodeForge**  
+⚡ **[CodeForge](https://github.com/Shreyas183/Code-forge)**  
 💻 Interactive coding practice platform with **real-time editor, syntax highlighting, problem filtering**.  
 
-🤖 **Accident Detector**  
+🤖 **[Accident Detector](https://github.com/Shreyas183/Accident-Detector-Python)**  
 🚗 Real-time accident detection using **YOLOv8 + OpenCV** with **92% accuracy**.  
 
 ---
