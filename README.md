@@ -43,12 +43,6 @@
 
 ---
 
-### 🏆 Achievements
-- 🥇 Top 10 in **Smart India Hackathon (College Level)**  
-- 🎤 Presented and led team projects at **WITCHAR 2025**  
-
----
-
 ### 🌐 Connect with Me
 <p align="center">
   <a href="https://linkedin.com/in/shreyas-chougule-355b5b240">
