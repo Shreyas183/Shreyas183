@@ -12,7 +12,7 @@
 - 💡 Passionate about **Java, DSA, React, and AI-driven solutions**  
 - 📚 Certified in **OCI Generative AI**, **AWS**, and **HackerRank**  
 - ⚡ Love building projects that mix **AI + Web Development**  
-- 🎯 Goal: Become a **full-stack + AI engineer**  
+ 
 
 ---
 
