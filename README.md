@@ -4,8 +4,9 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=2500&pause=1000&color=FF5733,FFD700,39FF14,00C9FF,FF00FF&center=true&vCenter=true&width=850&height=60&lines=👋+Hi,+I'm+Shreyas+Chougule;🚀+Final-year+IT+Student;💻+Java+%7C+React+%7C+TypeScript;☁️+AWS+%7C+OCI+Generative+AI+Certified;✨+Welcome+to+my+Profile!" alt="Rainbow Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=700&size=22&duration=2000&pause=1200&color=00FF00&background=000000&center=true&vCenter=true&width=900&height=60&lines=$+Access+Granted;>>>+Initializing+Profile...;>>>+Loading+Modules...;>>>+Java+%7C+React+%7C+AI+Developer;>>>+System+Ready;>>>+WELCOME+TO+SHREYAS+PROFILE" alt="Hacker Animation"/>
 </p>
+
 
 
 
