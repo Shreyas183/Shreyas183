@@ -3,16 +3,13 @@
 <h1 align="center">Hi 👋, I'm Shreyas Chougule</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> 
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=700&size=24&duration=2000&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=850&height=60&lines=>>>+Access+Granted;>>>+Loading+Profile;>>>+Java+%7C+React+%7C+AI+Developer;>>>+System+Ready!" alt="Hacker Animation"/>
 </p>
 
 <p align="center">
-  <img src="https://see.fontimg.com/api/renderfont4/q5w1/eyJyIjoiZnMiLCJoIjo0NSwidyI6MTAwMCwiZnMiOjQ1LCJmZ2MiOiIjRkZENzAwIiwiYmdjIjoiIzAwMDAwMCIsInQiOjF9/V0VMQ09NRSBUSCBGSU5BTCBTVFlMRSBERVZFTElTSEVS/arcade-classic.png" alt="Glitch Welcome" />
+  <img src="https://i.ibb.co/4mS3z5d/glitch-welcome.gif" alt="WELCOME Glitch" width="500"/>
 </p>
+
 
 
 
