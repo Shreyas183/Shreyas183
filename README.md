@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="https://i.ibb.co/xyz123/console-welcome.gif" alt="Hacker Intro" width="800"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=700&size=22&duration=2000&pause=1200&color=00FF00&background=000000&center=true&vCenter=true&width=900&height=60&lines=$+Access+Granted;>>>+Initializing+Profile...;>>>+Loading+Modules...;>>>+Java+%7C+React+%7C+AI+Developer;>>>+System+Ready;>>>+WELCOME+TO+SHREYAS+PROFILE" alt="Hacker Animation"/>
 </p>
 
 
