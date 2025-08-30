@@ -3,9 +3,7 @@
 <h1 align="center">Hi 👋, I'm Shreyas Chougule</h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&pause=1000&color=FF5733&center=true&vCenter=true&width=700&height=60&lines=🚀+Final-year+B.Tech+IT+Student;👨‍💻+Java+%7C+React+%7C+TypeScript+%7C+MySQL;☁️+Generative+AI+%7C+AWS+Certified;⚡+Passionate+about+AI+%2B+Web+Development" alt="Typing Animation"/>
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1200&color=FF5733,FFD700,39FF14,00C9FF,FF00FF&center=true&vCenter=true&width=800&height=60&lines=🚀+Final-year+B.Tech+IT+Student;👨‍💻+Java+%7C+React+%7C+TypeScript+%7C+MySQL;☁️+Generative+AI+%7C+AWS+Certified;⚡+Passionate+about+AI+%2B+Web+Development" alt="Color Animation"/>
 </p>
 
 
