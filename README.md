@@ -29,46 +29,32 @@
 
 ---
 
-## 🔥 Featured Projects  
+### 🔥 Featured Projects
 
-### 🎮 [Esports Tournament Manager](https://github.com/Shreyas183/Esports)  
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black"/>
-</p>
-
-- 🏆 Built a **role-based tournament management platform** with **4 dashboards** (Admin, Organizer, Player, Viewer).  
-- 👥 Managed **200+ registered players** including team/solo registrations, payments, and verification.  
-- 📡 Integrated **low-latency live streaming** with 99% uptime for 5+ competitive games.  
-- ✅ Reduced admin workload by **30%** through automation of verification & scheduling.  
+#### 🎮 [Esports Tournament Manager](https://github.com/Shreyas183/Esports)  
+**Tech:** React.js | TypeScript | Firebase  
+- 🏆 Role-based dashboards (**Admin, Organizer, Player, Viewer**) for **200+ users**.  
+- ⚡ Simplified tournament creation, player registration, payments & verification with **98% accuracy**.  
+- 🎥 Deployed **low-latency live streaming** with **99% reliability**, enabling **real-time matches across 5+ games**.  
+- 📊 Reduced administrative workload by **30%** via automated operations.  
 
 ---
 
-### ⚡ CodeForge  
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
-</p>
-
-- 💻 Designed a **coding practice platform** for algorithmic problem-solving.  
-- ⌨️ Developed a **real-time code editor** with auto-save, syntax highlighting & problem filtering.  
-- 📊 Added **test-case validation** + progress indicators → boosted user engagement by **40%**.  
-- 🌍 Platform supported **500+ active users** practicing DSA daily.  
+#### ⚡ CodeForge  
+**Tech:** React.js | TypeScript | Node.js  
+- 💻 Built an **interactive coding practice platform** supporting **500+ users**.  
+- ⌨️ Developed **real-time code editor** with **syntax highlighting** & **auto-save**.  
+- 🔎 Integrated **test-case validation** & **progress tracking**, boosting completion rate by **40%**.  
+- 📂 Added problem filtering for **efficient DSA practice**.  
 
 ---
 
-### 🚗 Accident Detector  
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
-</p>
-
-- 🤖 Created a **real-time accident detection system** using **YOLOv8 + OpenCV** with **92% recognition accuracy**.  
-- 📹 Implemented video pipeline with **bounding boxes, labels & object tracking**.  
+#### 🤖 Accident Detector  
+**Tech:** Python | OpenCV | Pandas | YOLOv8  
+- 🚗 Designed a **real-time accident detection system** with **92% recognition accuracy**.  
+- 📹 Built a **video analysis pipeline**: bounding boxes, class labels & object tracking.  
 - ⚡ Optimized inference speed by **35%** (frame skipping, detection filtering).  
-- 🚑 Can be applied to **smart surveillance systems** for accident prevention.  
+- 🛡️ Helps in **real-time safety monitoring** for traffic systems.  
 
 ---
 
