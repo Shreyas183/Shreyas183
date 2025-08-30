@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=26&duration=2500&pause=1000&color=FF0000,00FFFF,FFFFFF&center=true&vCenter=true&width=850&height=60&lines=⚡+Access+Granted;👨‍💻+Shreyas+Chougule;💻+Java+%7C+React+%7C+AI+Developer;🚀+System+Ready!" alt="Glitch Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=2500&pause=1000&color=FF5733,FFD700,39FF14,00C9FF,FF00FF&center=true&vCenter=true&width=850&height=60&lines=👋+Hi,+I'm+Shreyas+Chougule;🚀+Final-year+IT+Student;💻+Java+%7C+React+%7C+TypeScript;☁️+AWS+%7C+OCI+Generative+AI+Certified;✨+Welcome+to+my+Profile!" alt="Rainbow Animation"/>
 </p>
 
 
