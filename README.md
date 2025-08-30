@@ -1,45 +1,65 @@
-<!-- Interactive GitHub Profile README -->
+<!-- Pro GitHub Profile README -->
 
-<h1 align="center">
-  Hi there 👋, I'm <span style="color:#4CAF50">Shreyas Chougule</span>  
-</h1>
-<h3 align="center">🚀 Final-year B.Tech IT | Java | React | Generative AI</h3>
+<h1 align="center">Hi 👋, I'm Shreyas Chougule</h1>
+<h3 align="center">🚀 Final-year B.Tech IT Student | Java | React | Generative AI | Cloud Enthusiast ☁️</h3>
 
----
-
-### ✨ About Me
-- 🎓 Final-year **IT student** at Walchand Institute of Technology (CGPA 9.02)  
-- 💡 Passionate about **Java, DSA, React, and AI-driven solutions**  
-- 📚 Certified in **OCI Generative AI**, **AWS**, and **HackerRank**  
-- ⚡ Love building projects that mix **AI + Web Development**  
- 
-
----
-
-### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white"/>
-<!--   <img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white"/> -->
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://komarev.com/ghpvc/?username=Shreyas183&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/Shreyas183?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/Shreyas183?affiliations=OWNER%2CCOLLABORATOR" alt="Stars Badge"/>
 </p>
 
 ---
 
-### 🔥 Featured Projects
-🚀 **[Esports Tournament Manager](https://github.com/Shreyas183/Esports)**  
-🕹️ Role-based dashboards (Admin, Organizer, Player, Viewer) for **200+ users**, with live streaming & tournament management.  
+### 🚀 About Me  
+- 🎓 Final-year **Information Technology student** at Walchand Institute of Technology (CGPA 9.02)  
+- 💻 Skilled in **Java, DSA, OOP, MySQL**, and modern **web development**  
+- ☁️ Certified in **Oracle Generative AI (OCI)**, **AWS**, and **HackerRank**  
+- 🌱 Currently working on **React + TypeScript projects** and exploring **AI applications**  
+- ⚡ Fun fact: I love building things that blend **AI + Web Development**  
 
-⚡ **[CodeForge](https://github.com/Shreyas183/Code-forge)**  
-💻 Interactive coding practice platform with **real-time editor, syntax highlighting, problem filtering**.  
+---
 
-🤖 **[Accident Detector](https://github.com/Shreyas183/Accident-Detector-Python)**  
-🚗 Real-time accident detection using **YOLOv8 + OpenCV** with **92% accuracy**.  
+### 🛠️ Tech Stack
+**Languages:** Java, Python, C++, JavaScript, TypeScript  
+**Frontend:** React.js, HTML, CSS  
+**Backend & DB:** MySQL, Firebase  
+**Libraries/Tools:** Pandas, OpenCV, Git/GitHub  
+**Cloud & Certifications:** AWS, OCI Generative AI, HackerRank  
+
+---
+
+### 🔥 Projects
+- **[🎮 Esports Tournament Manager](https://github.com/Shreyas183/Esports)**  
+  Role-based dashboards (Admin, Organizer, Player, Viewer) with **200+ users**, live streaming, and tournament management.  
+
+- **[⚡ CodeForge](#)**  
+  Interactive coding practice platform with real-time editor, syntax highlighting, and problem filtering.  
+
+- **[🚗 Accident Detector](#)**  
+  Built using Python + OpenCV + YOLOv8, with **92% accuracy** in real-time detection.  
+
+---
+
+### 🎓 Education
+- **B.Tech Information Technology** – Walchand Institute Of Technology, Solapur (2022 – 2024)  
+  📌 CGPA: **9.02**  
+
+- **H.S.C** – Ganpatrao Arwade Jr. College, Sangli (2021 – 2022)  
+  📌 Percentage: **62.83%**  
+
+---
+
+### 🏅 Certifications
+- ☁️ **Oracle Cloud Infrastructure – Generative AI**  
+- ☁️ **AWS Certified**  
+- 💻 **HackerRank Certifications** (Java, DSA)  
+
+---
+
+### 🏆 Achievements
+- 🥇 **Top 10** in Smart India Hackathon (College Level)  
+- 🎤 Directed project presentations & team coordination at **WITCHAR 2025**  
 
 ---
 
@@ -60,8 +80,12 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shreyas183&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shreyas183&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Shreyas183&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shreyas183&theme=tokyonight" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyas183&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
 ---
