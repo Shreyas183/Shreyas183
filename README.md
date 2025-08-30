@@ -1,7 +1,14 @@
 <!-- Pro GitHub Profile README -->
 
 <h1 align="center">Hi 👋, I'm Shreyas Chougule</h1>
-<h3 align="center">🚀 Final-year B.Tech IT Student | Java | React | Generative AI | Cloud Enthusiast ☁️</h3>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=4CAF50&center=true&vCenter=true&width=600&lines=Final-year+B.Tech+IT+Student;Java+%7C+React+%7C+TypeScript+%7C+MySQL;Generative+AI+%7C+AWS+Certified;Passionate+about+AI+%2B+Web+Development" alt="Typing Animation" />
+  </a>
+</p>
+
+<h3 align="center">🚀 Java Developer | React Enthusiast | AI Explorer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Shreyas183&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
@@ -29,7 +36,7 @@
 
 ---
 
-### 🔥 Featured Projects
+### 🔥 Featured Projects  
 
 #### 🎮 [Esports Tournament Manager](https://github.com/Shreyas183/Esports)  
 **Tech:** React.js | TypeScript | Firebase  
@@ -103,11 +110,4 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyas183&layout=compact&theme=tokyonight" height="160"/>
-</p>
-
----
-
-### 🐍 Contribution Snake
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
