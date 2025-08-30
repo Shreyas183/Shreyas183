@@ -70,8 +70,7 @@
 - **B.Tech Information Technology** – Walchand Institute Of Technology, Solapur (2022 – 2024)  
   📌 CGPA: **9.02**  
 
-- **H.S.C** – Ganpatrao Arwade Jr. College, Sangli (2021 – 2022)  
-  📌 Percentage: **62.83%**  
+  
 
 ---
 
