@@ -48,7 +48,7 @@
 
 ---
 
-#### ⚡ CodeForge  
+#### ⚡ [CodeForge](https://github.com/Shreyas183/CodeFordge)  
 **Tech:** React.js | TypeScript | Node.js  
 - 💻 Built an **interactive coding practice platform** supporting **500+ users**.  
 - ⌨️ Developed **real-time code editor** with **syntax highlighting** & **auto-save**.  
