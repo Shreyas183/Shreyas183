@@ -3,12 +3,10 @@
 <h1 align="center">Hi 👋, I'm Shreyas Chougule</h1>
 
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-Expert-red?style=for-the-badge&logo=java" />
-  <img src="https://img.shields.io/badge/React-Frontend-blue?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/AI-Explorer-green?style=for-the-badge&logo=tensorflow" />
-  <img src="https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws" />
-</p>
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=28&duration=4000&pause=1200&color=00C9FF&center=true&vCenter=true&width=800&height=60&lines=🌊+Welcome+to+Shreyas's+Profile!;🚀+Java+%7C+React+%7C+AI+Developer;☁️+Cloud+%7C+Generative+AI+Explorer" alt="Wave Animation"/>
+</h2>
+
 
 
 
