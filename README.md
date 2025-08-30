@@ -4,7 +4,9 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Final-year+B.Tech+IT+Student;Java+%7C+React+%7C+TypeScript+%7C+MySQL;Certified+in+AWS+%26+OCI+Generative+AI;Passionate+about+AI+%2B+Web+Development" alt="Typing Animation"/>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2200&pause=1200&color=FF5733,39FF14,00C9FF,FFD700&center=true&vCenter=true&width=800&height=60&lines=👋+Hi,+I'm+Shreyas+Chougule;💻+Java+%7C+React+%7C+TypeScript+%7C+MySQL;☁️+AWS+%7C+OCI+Generative+AI+Certified;🚀+Building+AI+%2B+Web+Projects;✨+Welcome+to+my+GitHub+Profile!" alt="Animated Intro"/>
+  </a>
 </p>
 
 
