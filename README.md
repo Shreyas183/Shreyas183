@@ -4,9 +4,10 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=4CAF50&center=true&vCenter=true&width=600&lines=Final-year+B.Tech+IT+Student;Java+%7C+React+%7C+TypeScript+%7C+MySQL;Generative+AI+%7C+AWS+Certified;Passionate+about+AI+%2B+Web+Development" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&pause=1000&color=FF5733&center=true&vCenter=true&width=700&height=60&lines=🚀+Final-year+B.Tech+IT+Student;👨‍💻+Java+%7C+React+%7C+TypeScript+%7C+MySQL;☁️+Generative+AI+%7C+AWS+Certified;⚡+Passionate+about+AI+%2B+Web+Development" alt="Typing Animation"/>
   </a>
 </p>
+
 
 <h3 align="center">🚀 Java Developer | React Enthusiast | AI Explorer</h3>
 
