@@ -3,8 +3,9 @@
 <h1 align="center">Hi 👋, I'm Shreyas Chougule</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=2500&pause=1000&color=39FF14&background=000000&center=true&vCenter=true&width=800&height=60&lines=👾+Initializing+Profile...;🚀+Shreyas+Chougule+Online;☕+Java+%7C+React+%7C+AI+Developer;✨+Welcome+to+my+Digital+Space" alt="Neon Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=1200&color=00C9FF&background=000000&center=true&vCenter=true&width=850&height=60&lines=🚀+Launching+Profile...;🛰+Connecting+to+Shreyas+Chougule;👨‍💻+Java+Developer+%26+AI+Explorer;🌌+Exploring+the+Universe+of+Code" alt="Space Animation"/>
 </p>
+
 
 
 <h3 align="center">🚀 Java Developer | React Enthusiast | AI Explorer</h3>
