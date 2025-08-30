@@ -48,7 +48,7 @@
 
 ---
 
-#### ⚡ [CodeForge](https://github.com/Shreyas183/CodeFordge)  
+#### ⚡ [CodeForge](https://github.com/Shreyas183/Code-forge)  
 **Tech:** React.js | TypeScript | Node.js  
 - 💻 Built an **interactive coding practice platform** supporting **500+ users**.  
 - ⌨️ Developed **real-time code editor** with **syntax highlighting** & **auto-save**.  
@@ -57,7 +57,7 @@
 
 ---
 
-#### 🤖 Accident Detector  
+#### 🤖 [Accident Detector](https://github.com/Shreyas183/Accident-Detector-Python)  
 **Tech:** Python | OpenCV | Pandas | YOLOv8  
 - 🚗 Designed a **real-time accident detection system** with **92% recognition accuracy**.  
 - 📹 Built a **video analysis pipeline**: bounding boxes, class labels & object tracking.  
