@@ -3,8 +3,9 @@
 <h1 align="center">Hi 👋, I'm Shreyas Chougule</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=1200&color=00C9FF&background=000000&center=true&vCenter=true&width=850&height=60&lines=🚀+Launching+Profile...;🛰+Connecting+to+Shreyas+Chougule;👨‍💻+Java+Developer+%26+AI+Explorer;🌌+Exploring+the+Universe+of+Code" alt="Space Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=700&size=24&duration=2000&pause=900&color=FFD700&background=000000&center=true&vCenter=true&width=820&height=60&lines=>>>+Access+Granted;>>>+Welcome+Shreyas+Chougule;>>>+Java+%7C+React+%7C+AI+Developer;>>>+System+Ready!" alt="Hacker Animation"/>
 </p>
+
 
 
 
