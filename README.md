@@ -4,9 +4,10 @@
 
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2200&pause=1200&color=FF5733,39FF14,00C9FF,FFD700&center=true&vCenter=true&width=800&height=60&lines=👋+Hi,+I'm+Shreyas+Chougule;💻+Java+%7C+React+%7C+TypeScript+%7C+MySQL;☁️+AWS+%7C+OCI+Generative+AI+Certified;🚀+Building+AI+%2B+Web+Projects;✨+Welcome+to+my+GitHub+Profile!" alt="Animated Intro"/>
-  </a>
+  <img src="https://img.shields.io/badge/Java-Expert-red?style=for-the-badge&logo=java" />
+  <img src="https://img.shields.io/badge/React-Frontend-blue?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/AI-Explorer-green?style=for-the-badge&logo=tensorflow" />
+  <img src="https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws" />
 </p>
 
 
