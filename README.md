@@ -53,12 +53,12 @@
 
 ---
 
-#### ⚡ [CodeForge](https://github.com/Shreyas183/Code-forge)  
-**Tech:** React.js | TypeScript | Node.js  
-- 💻 Built an **interactive coding practice platform** supporting **500+ users**.  
-- ⌨️ Developed **real-time code editor** with **syntax highlighting** & **auto-save**.  
-- 🔎 Integrated **test-case validation** & **progress tracking**, boosting completion rate by **40%**.  
-- 📂 Added problem filtering for **efficient DSA practice**.  
+#### ⚡ [DocQueryAI](https://github.com/Shreyas183/DocQueryAI.git)  
+**Tech:** React.js | TypeScript | Express.js  
+- 🧠 Built an AI-powered document assistant using RAG (Retrieval-Augmented Generation) for intelligent PDF querying.
+- 📄 Implemented semantic vector search & smart chunking, improving answer accuracy by 50%.  
+- ⚙️ Integrated Gemini & OpenAI APIs with real-time analytics and source attribution, boosting user engagement by 45%.  
+- 🚀 Optimized backend pipelines for faster query response (−35% latency) and reliable multi-model fallback.
 
 ---
 
