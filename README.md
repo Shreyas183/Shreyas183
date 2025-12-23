@@ -1,108 +1,113 @@
-<!-- Professional GitHub Profile README -->
+<!-- Pro GitHub Profile README -->
 
-<h1 align="center">Shreyas Chougule</h1>
-<h3 align="center">Java Developer | Full-Stack (React) Developer | AI & Systems Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Shreyas Chougule</h1>
+
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=600&size=20&duration=2500&pause=1200&color=00C853&background=000000&center=true&vCenter=true&width=900&height=55&lines=Java+%7C+React+%7C+AI+Development;Full-Stack+Engineering+%26+Problem+Solving;Building+Scalable+Systems+with+Impact" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=700&size=22&duration=2000&pause=1200&color=00FF00&background=000000&center=true&vCenter=true&width=900&height=60&lines=$+Access+Granted;>>>+Initializing+Profile...;>>>+Loading+Modules...;>>>+Java+%7C+React+%7C+AI+Developer;>>>+System+Ready;>>>+WELCOME+TO+SHREYAS+PROFILE" alt="Hacker Animation"/>
 </p>
 
+
+
+
+
+
+
+
+<h3 align="center">🚀 Java Developer | React Enthusiast | AI Explorer</h3>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shreyas183&label=Profile%20Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/Shreyas183?label=Followers&style=social" />
-  <img src="https://img.shields.io/github/stars/Shreyas183?affiliations=OWNER%2CCOLLABORATOR" />
+  <img src="https://komarev.com/ghpvc/?username=Shreyas183&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/Shreyas183?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/Shreyas183?affiliations=OWNER%2CCOLLABORATOR" alt="Stars Badge"/>
 </p>
 
 ---
 
-## Professional Summary
-Final-year **B.Tech Information Technology** student at **Walchand Institute of Technology, Solapur**, with a strong foundation in **Java, Data Structures & Algorithms, OOP**, and **database-driven application development**.  
-Experienced in building **scalable full-stack applications** using **React, TypeScript, Firebase, and MySQL**, along with hands-on exposure to **AI-powered systems**, real-time processing, and performance optimization.  
-Driven by problem-solving, clean architecture, and delivering reliable, production-ready solutions.
+### 🚀 About Me  
+- 🎓 Final-year **Information Technology student** at Walchand Institute of Technology (CGPA 9.02)  
+- 💻 Skilled in **Java, DSA, OOP, MySQL**, and modern **web development**  
+- ☁️ Certified in **Oracle Generative AI (OCI)**, **AWS**, and **HackerRank**  
+- 🌱 Currently working on **React + TypeScript projects** and exploring **AI applications**  
+- ⚡ Fun fact: I love building things that blend **AI + Web Development**  
 
 ---
 
-## Technical Skills
+### 🛠️ Tech Stack
 **Languages:** Java, Python, C++, JavaScript, TypeScript  
-**Frontend:** React.js, HTML5, CSS3  
-**Backend & Databases:** MySQL, Firebase, Express.js  
-**AI & Libraries:** Pandas, OpenCV  
-**Tools & Platforms:** Git, GitHub  
-**Cloud & Certifications:** AWS, Oracle Cloud Infrastructure (Generative AI), HackerRank  
+**Frontend:** React.js, HTML, CSS  
+**Backend & DB:** MySQL, Firebase  
+**Libraries/Tools:** Pandas, OpenCV, Git/GitHub  
+**Cloud & Certifications:** AWS, OCI Generative AI, HackerRank  
 
 ---
 
-## Featured Projects
+### 🔥 Featured Projects  
 
-### Esports Tournament Manager
-🔗 https://github.com/Shreyas183/Esports  
-**Tech Stack:** React.js, TypeScript, Firebase  
-
-- Designed and implemented role-based dashboards (**Admin, Organizer, Player, Viewer**) supporting **200+ users**  
-- Automated tournament creation, registrations, payments, and verification with **98% accuracy**  
-- Enabled **low-latency live streaming** with **99% system reliability** across **5+ games**  
-- Reduced administrative overhead by **30%** through workflow automation  
+#### 🎮 [Esports Tournament Manager](https://github.com/Shreyas183/Esports)  
+**Tech:** React.js | TypeScript | Firebase  
+- 🏆 Role-based dashboards (**Admin, Organizer, Player, Viewer**) for **200+ users**.  
+- ⚡ Simplified tournament creation, player registration, payments & verification with **98% accuracy**.  
+- 🎥 Deployed **low-latency live streaming** with **99% reliability**, enabling **real-time matches across 5+ games**.  
+- 📊 Reduced administrative workload by **30%** via automated operations.  
 
 ---
 
-### DocQueryAI – AI-Powered Document Assistant
-🔗 https://github.com/Shreyas183/DocQueryAI.git  
-**Tech Stack:** React.js, TypeScript, Express.js  
-
-- Built a RAG-based system for intelligent PDF querying and contextual answers  
-- Implemented semantic vector search and smart document chunking, improving accuracy by **50%**  
-- Integrated **Gemini** and **OpenAI** APIs with source attribution and analytics  
-- Reduced response latency by **35%** with optimized backend pipelines and multi-model fallback  
+#### ⚡ [DocQueryAI](https://github.com/Shreyas183/DocQueryAI.git)  
+**Tech:** React.js | TypeScript | Express.js  
+- 🧠 Built an AI-powered document assistant using RAG (Retrieval-Augmented Generation) for intelligent PDF querying.
+- 📄 Implemented semantic vector search & smart chunking, improving answer accuracy by 50%.  
+- ⚙️ Integrated Gemini & OpenAI APIs with real-time analytics and source attribution, boosting user engagement by 45%.  
+- 🚀 Optimized backend pipelines for faster query response (−35% latency) and reliable multi-model fallback.
 
 ---
 
-### Accident Detection System
-🔗 https://github.com/Shreyas183/Accident-Detector-Python  
-**Tech Stack:** Python, OpenCV, Pandas, YOLOv8  
-
-- Developed a real-time accident detection system with **92% detection accuracy**  
-- Implemented video processing pipelines with bounding boxes, labels, and object tracking  
-- Improved inference performance by **35%** through frame skipping and detection filtering  
-- Designed for real-time traffic safety monitoring use cases  
+#### 🤖 [Accident Detector](https://github.com/Shreyas183/Accident-Detector-Python)  
+**Tech:** Python | OpenCV | Pandas | YOLOv8  
+- 🚗 Designed a **real-time accident detection system** with **92% recognition accuracy**.  
+- 📹 Built a **video analysis pipeline**: bounding boxes, class labels & object tracking.  
+- ⚡ Optimized inference speed by **35%** (frame skipping, detection filtering).  
+- 🛡️ Helps in **real-time safety monitoring** for traffic systems.  
 
 ---
 
-## Education
-**B.Tech – Information Technology**  
-Walchand Institute of Technology, Solapur (2022 – 2026)  
-**CGPA:** 9.02  
+### 🎓 Education
+- **B.Tech Information Technology** – Walchand Institute Of Technology, Solapur (2022 – 2026)  
+  📌 CGPA: **9.02**  
+
+  
 
 ---
 
-## Certifications
-- Oracle Cloud Infrastructure – Generative AI  
-- AWS Certified  
-- HackerRank Certifications (Java, Data Structures & Algorithms)  
+### 🏅 Certifications
+- ☁️ **Oracle Cloud Infrastructure – Generative AI**  
+- ☁️ **AWS Certified**  
+- 💻 **HackerRank Certifications** (Java, DSA)  
 
 ---
 
-## Achievements
-- Top 10 finalist – **Smart India Hackathon (College Level)**  
-- Led technical presentations and team coordination at **WITCHAR 2025**  
+### 🏆 Achievements
+- 🥇 **Top 10** in Smart India Hackathon (College Level)  
+- 🎤 Directed project presentations & team coordination at **WITCHAR 2025**  
 
 ---
 
-## Connect
+### 🌐 Connect with Me
 <p align="center">
   <a href="https://linkedin.com/in/shreyas-chougule-355b5b240">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/Shreyas183">
-    <img src="https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="mailto:shreyaschougule218@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## GitHub Activity
+### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shreyas183&show_icons=true&theme=tokyonight" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shreyas183&theme=tokyonight" height="160"/>
