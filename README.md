@@ -107,11 +107,4 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Shreyas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shreyas183&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Shreyas183&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyas183&layout=compact&theme=tokyonight)
 
