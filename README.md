@@ -1,6 +1,6 @@
 <!-- Pro GitHub Profile README -->
 
-<h1 align="center">Hi 👋, I'm Shreyas Chougule</h1>
+<h1 align="center">Hi👋, I'm Shreyas Chougule</h1>
 
 
 <p align="center">
