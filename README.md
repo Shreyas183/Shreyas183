@@ -10,7 +10,6 @@
 
 
 
-
 <h3 align="center">🚀 Software Developer | React Enthusiast | AI Explorer</h3>
 
 <p align="center">
