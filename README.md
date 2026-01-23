@@ -19,7 +19,6 @@
 
 ---
 
-
 ### 🚀 About Me  
 - 🎓 Final-year **Information Technology student** at Walchand Institute of Technology (CGPA 9.02)  
 - 💻 Skilled in **Java, DSA, OOP, MySQL**, and modern **web development**  
