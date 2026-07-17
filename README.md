@@ -66,7 +66,7 @@
 
 ### 🎓 Education
 - **B.Tech Information Technology** – Walchand Institute Of Technology, Solapur (2022 – 2026)  
-  📌 CGPA: **9.06**  
+  📌 CGPA: **9.13**  
 
   
 
